@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//jjs06.github.io/react_shop/static/css/main.5b7d36ed.css",
+    "main.js": "//jjs06.github.io/react_shop/static/js/main.d8673f9c.js",
+    "static/js/787.23170c61.chunk.js": "//jjs06.github.io/react_shop/static/js/787.23170c61.chunk.js",
+    "static/media/slider.jpg": "//jjs06.github.io/react_shop/static/media/slider.a7899a3a3928abce3b3a.jpg",
+    "index.html": "//jjs06.github.io/react_shop/index.html",
+    "main.5b7d36ed.css.map": "//jjs06.github.io/react_shop/static/css/main.5b7d36ed.css.map",
+    "main.d8673f9c.js.map": "//jjs06.github.io/react_shop/static/js/main.d8673f9c.js.map",
+    "787.23170c61.chunk.js.map": "//jjs06.github.io/react_shop/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b7d36ed.css",
+    "static/js/main.d8673f9c.js"
+  ]
+}
